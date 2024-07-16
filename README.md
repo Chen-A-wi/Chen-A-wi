@@ -1,8 +1,11 @@
-## Hi there 👋
+# Stats
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-A-wi&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-A-wi&layout=compact&theme=github_dark_dimmed)](https://github.com/Chen-A-wi/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=Chen-A-wi&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chen-A-wi&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github" />
+</a>
+<a href="https://github.com/Chen-A-wi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-A-wi&layout=compact&theme=github_dark_dimmed" />
+</a>
 
 <!--
 **Chen-A-wi/Chen-A-wi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
