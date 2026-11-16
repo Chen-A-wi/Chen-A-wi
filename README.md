@@ -1,10 +1,10 @@
 # Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=Chen-A-wi&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chen-A-wi&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Chen-A-wi&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github" />
 </a>
-<a href="https://github.com/Chen-A-wi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-A-wi&layout=compact&theme=github_dark_dimmed" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chen-A-wi&layout=compact&theme=github_dark_dimmed" />
 </a>
 
 <!--
