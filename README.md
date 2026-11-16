@@ -1,3 +1,15 @@
+### Hi there, I'm BenChen 👋
+
+Android Engineer from Taiwan with 8+ years of experience, focusing on **Kotlin**, **Jetpack Compose**, and modular app architecture.  
+Always curious about new tech, AI workflows, and building things that actually solve problems — *Just do it.*
+
+- 📱 **Mobile:** Kotlin · Java · Jetpack Compose · Coroutines · Modularization (Composite Builds / Version Catalogs) · Flutter
+- 📝 **Blog:** Sharing dev notes, troubleshooting logs, and life stories at [AwiLab](https://awilab.com/)
+- 🛒 **Side Project:** Running [䒤濱屋 RiBinWu](https://www.ribinwu.com/), a Japanese select shop featuring pet goods, omamori, and snacks
+- 💬 **Ask me about:** Android architecture, Compose, or automating daily ops with AI
+
+---
+
 # Stats
 
 <a href="https://github.com/stats-organization/github-stats-extended">
